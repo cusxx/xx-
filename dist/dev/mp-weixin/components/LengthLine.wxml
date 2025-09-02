@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['_click',['$event']]]]]}}" class="{{['_div','data-v-939c5ad6','cm-line '+(horizontal?'horizontal':'vertical')]}}" bindtap="__e"><view class="_div data-v-939c5ad6">{{content}}</view></view>

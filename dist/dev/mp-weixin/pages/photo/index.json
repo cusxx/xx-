@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "最美AI证件照",
+  "usingComponents": {
+    "u-overlay": "/node-modules/uview-ui/components/u-overlay/u-overlay",
+    "u-image": "/node-modules/uview-ui/components/u-image/u-image",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-loading-page": "/node-modules/uview-ui/components/u-loading-page/u-loading-page"
+  }
+}

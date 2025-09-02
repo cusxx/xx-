@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['_click',['$event']]]]]}}" class="cm-dot _div data-v-c27a377e" style="{{'background-color:'+(color)+';'+('border:'+(borderColor?'1px solid'+borderColor:'none')+';')}}" bindtap="__e"><slot></slot></view>
